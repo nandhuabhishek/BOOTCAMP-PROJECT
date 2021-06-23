@@ -1,0 +1,28 @@
+-------------------------------------------------------------
+Weather Stats for - KOCHI  || 23 Jun 2021 | 02:55:49 PM
+-------------------------------------------------------------
+Current temperature is: 26.99 deg C
+Current weather desc  : light rain
+Current Humidity      : 87 %
+Current wind speed    : 4.14 kmph
+-------------------------------------------------------------
+Weather Stats for - KOTTAYAM  || 23 Jun 2021 | 02:58:31 PM
+-------------------------------------------------------------
+Current temperature is: 27.01 deg C
+Current weather desc  : light rain
+Current Humidity      : 93 %
+Current wind speed    : 1.6 kmph
+-------------------------------------------------------------
+Weather Stats for - THRISSUR  || 23 Jun 2021 | 02:58:55 PM
+-------------------------------------------------------------
+Current temperature is: 26.99 deg C
+Current weather desc  : moderate rain
+Current Humidity      : 94 %
+Current wind speed    : 0.86 kmph
+-------------------------------------------------------------
+Weather Stats for - KANNUR  || 23 Jun 2021 | 03:00:41 PM
+-------------------------------------------------------------
+Current temperature is: 26.33 deg C
+Current weather desc  : light rain
+Current Humidity      : 85 %
+Current wind speed    : 3.48 kmph
